@@ -1,9 +1,9 @@
 
 # ⭐ Turning RAW Photos Into HDR Magic
 
-[!hdr](https://cdn.shopify.com/s/files/1/0570/9280/0675/files/SDR-vs-HDR-Comparison.webp?v=1727663813)
-[!hdr2](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_Lk_rc8Vna74saHrd6Y5QmV3uLRgBBknwP_PzcQN3AwlNvATKrF9uJ9qoLwxeXkbZHgGSxpT-SChxipwxtquudli2rzztkkWcfFrWutYYh6TyPYkCyzEY1jKrGaq1gQH-kilRHAo6vXWUu5TiT4TK6iwB1LQuRKQHUi-CbIIUC-p5gL39hKmGnPgd4bzi/s1280/brigh.jpg)
-[!hdr3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Color-Gamut-1.jpg)
+![hdr](https://cdn.shopify.com/s/files/1/0570/9280/0675/files/SDR-vs-HDR-Comparison.webp?v=1727663813)
+![hdr2](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_Lk_rc8Vna74saHrd6Y5QmV3uLRgBBknwP_PzcQN3AwlNvATKrF9uJ9qoLwxeXkbZHgGSxpT-SChxipwxtquudli2rzztkkWcfFrWutYYh6TyPYkCyzEY1jKrGaq1gQH-kilRHAo6vXWUu5TiT4TK6iwB1LQuRKQHUi-CbIIUC-p5gL39hKmGnPgd4bzi/s1280/brigh.jpg)
+![hdr3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Color-Gamut-1.jpg)
 
 Imagine you take a picture using a fancy camera. Inside the camera is a tiny “light bucket” that catches everything it sees — super bright parts, super dark parts, and all the colors in-between.
 This bucket of light is called **RAW data**.
