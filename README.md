@@ -197,5 +197,3 @@ This comparison makes the “HDR magic” obvious.
 
   * **Match your target device for the most accurate brightness.**
   * Higher nit = more headroom = darker appearance on dim displays.
-
-Just tell me!
